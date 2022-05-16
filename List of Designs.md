@@ -12,5 +12,5 @@ Presentation:
 https://docs.google.com/presentation/d/1zISsFdausLDPbU4jdudcO1sNNr857fQh/edit?usp=sharing&ouid=112787223258088016312&rtpof=true&sd=true
 
 
-[text](https://www.figma.com/proto/FZf678kUtpkaoh6Ru4XDNQ/Untitled?node-id=133%3A0&scaling=scale-down&page-id=2%3A0){:target = "\_blank"}
+[text](https://www.figma.com/proto/FZf678kUtpkaoh6Ru4XDNQ/Untitled?node-id=133%3A0&scaling=scale-down&page-id=2%3A0){:target= "\_blank"}
 
