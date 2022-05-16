@@ -2,7 +2,7 @@
 Below is a list of Hackathon apps I have helped designed.
 
 ## 2022 Microsoft Aspire Hackathon (1st Place)
-**Unable to share design since it is property of my employer**
+**Unable to share design since it is property of my employer
 
 ## 2021 HFES mHealth Student Design Competition (1st Place)
 Figma Prototype: 
